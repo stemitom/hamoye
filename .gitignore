@@ -125,3 +125,4 @@ dmypy.json
 
 # editor settings
 .vscode/
+.metals/
